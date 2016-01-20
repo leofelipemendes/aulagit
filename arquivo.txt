@@ -1,3 +1,0 @@
-Leonardo Felipe Mendes
-aula git
-alterando o meu nome em --global user.name
