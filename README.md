@@ -5,3 +5,4 @@
 * - GIT ADD . PARA ADICIONAR
 * - GIT COMMIT -M PARA COMITAR COM DESCRICAO DO COMMIT
 * - GIT PUSH ORIGIN MASTER PARA ENVIAR PARA BRANCH MASTER DO REPOSITORIO
+-fonte de pesquisa : http://daringfireball.net/projects/markdown/syntax
